@@ -2,4 +2,4 @@
 
 Getting familiar with Vue and Vuex.
 
-demo:
+demo: https://laea.github.io/joke-app/
